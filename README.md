@@ -1,0 +1,2 @@
+# medianews
+Media kita bersama
